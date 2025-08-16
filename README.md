@@ -15,7 +15,6 @@
 - 🤔 I’m looking for help with **Android Development For Machine Learning**
 - 💬 Ask me about **python, machine learning and good food**
 - 📫 How to reach me: codebasetwo@gmail.com
-- 😄 Pronouns: **They/Them**
 - ⚡ Fun fact: **I love dancing**
 -->
 <h3 align="left">Connect with me:</h3>
